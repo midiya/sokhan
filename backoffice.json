@@ -1,0 +1,12 @@
+{
+  "total_credit": 0,
+  "total_tomorrow_account_balance": 3,
+  "sales_record_date": "2018-12-10",
+  "response_date": "2018-12-10",
+  "account_status_is_active": true,
+  "account_status_is_valid" : true,
+  "bank_title": "tejarat",
+  "account_number": "000123123",
+  "customer_access_to_account_number": true,
+  "account_history": 1
+}
